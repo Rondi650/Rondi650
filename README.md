@@ -40,7 +40,7 @@
 
 ## 📫 Como me encontrar
 
-- Email: **rondinelle@email.com**  
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) _(ajuste com seu link real)_
+- Email: **rondinellenunes123@gmail.com**  
+- LinkedIn: [linkedin.com/in/rondinelle-oliveira](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/)
 
 ---

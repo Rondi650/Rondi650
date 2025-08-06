@@ -29,6 +29,7 @@
 - [ ] Data Science com Python
 - [ ] OpenAI com Python
 
+<!--
 ---
 
 ## 📈 GitHub Stats
@@ -36,7 +37,7 @@
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rondinelleoliveira&show_icons=true&theme=tokyonight)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rondinelleoliveira&layout=compact&theme=tokyonight)
 
----
+--- -->
 
 ## 📫 Como me encontrar
 

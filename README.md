@@ -44,8 +44,9 @@
 
 ---
 
-## 📫 Contato
+## 🌐 Contato
 
-📧 [rondinellenunes123@gmail.com](mailto:rondinellenunes123@gmail.com)  
-💼 [linkedin.com/in/rondinelle-oliveira](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/)  
-🤗 [huggingface.co/RondiNunes](https://huggingface.co/RondiNunes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rondinellenunes123@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RondiNunes)
+![Profile Views](https://komarev.com/ghpvc/?username=Rondi650&style=for-the-badge&color=grey)

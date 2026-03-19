@@ -3,7 +3,7 @@
 🎯 **Analista de Planejamento** com 5 anos de experiência  
 💻 Em transição para o **desenvolvimento back-end com Python**  
 ⚙️ Focado em **automação de processos**, **integração de APIs** e **aplicações orientadas a dados**  
-🐍 Experiência prática com **Python**, **Flask**, **SQL** e **ambientes Linux**  
+🐍 Experiência prática com **Python**, **Flask**, **Django**, **SQL** e **ambientes Linux**  
 🤖 Utilizando **Inteligência Artificial** como apoio para construção de soluções mais eficientes  
 
 📊 Interesse em desenvolver sistemas que unam **dados, automação e escalabilidade**, com foco em resolver problemas reais de negócio  
@@ -12,10 +12,10 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Back-end:** Python, Flask  
+- **Back-end:** Python, Django, Flask  
 - **Dados:** SQL, manipulação e análise de dados  
 - **Infraestrutura:** Linux, Shell Script, Git  
-- **IA (complementar):** Hugging Face, LangChain  
+- **IA (complementar):** LangChain, LangGraph
 
 ---
 
@@ -23,7 +23,7 @@
 
 - Desenvolvimento de aplicações com **Flask** e **APIs REST**  
 - Integração com **bancos de dados** e manipulação de dados com Python  
-- Experimentos com **IA generativa**, **RAG** e **LangChain**  
+- Experimentos com **IA generativa**, **RAG**, **LangChain** e **LangGraph**
 - Projetos publicados na [**Hugging Face**](https://huggingface.co/RondiNunes)  
 
 ---

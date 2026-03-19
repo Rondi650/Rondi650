@@ -35,6 +35,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko" />
 </div>
 
+<img 
+  height="160em" 
+  src="https://streak-stats.demolab.com?user=Rondi650&theme=merko&hide_border=true" 
+/>
+
 ---
 
 ## 📫 Contato

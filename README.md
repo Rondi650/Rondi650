@@ -46,6 +46,8 @@
 
 ## 📫 Contato
 
-📧 **E-mail:** [rondinellenunes123@gmail.com](mailto:rondinellenunes123@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/rondinelle-oliveira](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/)  
-🤗 **Hugging Face:** [huggingface.co/RondiNunes](https://huggingface.co/RondiNunes)
+| | |
+|---|---|
+| 📧 E-mail | [rondinellenunes123@gmail.com](mailto:rondinellenunes123@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/rondinelle-oliveira](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/) |
+| 🤗 Hugging Face | [huggingface.co/RondiNunes](https://huggingface.co/RondiNunes) |

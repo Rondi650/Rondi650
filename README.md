@@ -31,8 +31,8 @@
 ## 📈 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=default" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=default" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko" />
 </div>
 
 ---

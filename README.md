@@ -10,6 +10,14 @@
 
 ---
 
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rondinellenunes123@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RondiNunes)
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 - **Back-end:** Python, Django, Flask  
@@ -44,8 +52,3 @@
 
 ---
 
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rondinellenunes123@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RondiNunes)

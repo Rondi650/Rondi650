@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<div align="justify"> 
+<div align="justify-content"> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko&&&include_all_commits=true" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko" /> </div>
 

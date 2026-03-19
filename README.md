@@ -6,6 +6,9 @@
 ⚙️ Aprofundando práticas com **Flask**, **APIs REST**, **LangChain**, e **modelos da Hugging Face**  
 📊 Unindo **análise de dados** e **tecnologia** para desenvolver **soluções preditivas e automatizadas**  
 
+[![Rondi650 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rondi650)](https://github.com/Rondi650/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&stats_format=bytes)
 ---
 
 ## 🧠 **Explorando Inteligência Artificial**

@@ -41,12 +41,12 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko&include_all_commits=false" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko&include_all_commits=false&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko&hide_border=true" />
 
   <br/>
 
-  <img height="160em" src="https://streak-stats.demolab.com?user=Rondi650&theme=merko&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Rondi650&theme=merko&hide_border=true" />
 
 </div>
 

@@ -53,7 +53,8 @@
 
   <br/>
 
-  <img width="60%" src="https://streak-stats.demolab.com?user=Rondi650&theme=merko&hide_border=true"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=Rondi650&theme=merko&hide_border=true"/>4
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rondi650)(https://github.com/Rondi650/github-readme-stats)
 
 </div>
 

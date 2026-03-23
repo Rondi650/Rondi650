@@ -41,7 +41,7 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko&include_all_commits=false" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko" />
 
   <br/>

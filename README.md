@@ -39,24 +39,11 @@
 ## 📈 Estatísticas
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko&include_all_commits=false&hide_border=true"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-
-  <img width="60%" src="https://streak-stats.demolab.com?user=Rondi650&theme=merko&hide_border=true"/>4
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Rondi650&show_icons=true&theme=merko&include_all_commits=false&hide_border=true" />
+  <br/><br/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rondi650&layout=compact&theme=merko&hide_border=true" />
+  <br/><br/>
+  <img width="50%" src="https://streak-stats.demolab.com?user=Rondi650&theme=merko&hide_border=true" />
 </div>
 
 ---
----
-

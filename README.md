@@ -1,19 +1,19 @@
-# 👋 Olá! Eu sou o **Rondinelle Oliveira**
+# Olá! Eu sou o **Rondinelle Oliveira**
 
 ### **Analista de Planejamento & Desenvolvedor Back-end (Python)**
 > Unindo 5 anos de visão estratégica em planejamento com a construção de soluções escaláveis e automação inteligente.
 
 ---
 
-## 🚀 Sobre Mim
-* 🎯 **Experiência:** 5 anos como Analista de Planejamento, focado em eficiência operacional.
-* 💻 **Transição:** Especializando-me em desenvolvimento **Back-end com Python**.
-* ⚙️ **Foco:** Automação de processos, integração de APIs e aplicações orientadas a dados.
-* 🤖 **IA & Inovação:** Utilizando **LangChain**, **LangGraph** e **RAG** para soluções inteligentes.
+## Sobre Mim
+*  **Experiência:** 5 anos como Analista de Planejamento, focado em eficiência operacional.
+*  **Transição:** Especializando-me em desenvolvimento **Back-end com Python**.
+*  **Foco:** Automação de processos, integração de APIs e aplicações orientadas a dados.
+*  **IA & Inovação:** Utilizando **LangChain**, **LangGraph** e **RAG** para soluções inteligentes.
 
 ---
 
-## 🌐 Contato & Portfólio
+## Contato & Portfólio
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/" target="_blank">
@@ -29,14 +29,14 @@
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## Stack & Ferramentas
 <p align="center">
   <img src="/metrics.plugin.topics.icons.svg" width="100%" />
 </p>
 
 ---
 
-## 📈 Atividade e Métricas
+## Atividade e Métricas
 
 <table width="100%">
   <tr>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-### 🗓️ Calendário de Contribuições
+### Calendário de Contribuições
 <p align="center">
   <img src="/metrics.plugin.isocalendar.fullyear.svg" width="100%" />
 </p>

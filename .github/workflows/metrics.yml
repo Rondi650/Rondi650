@@ -28,7 +28,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          plugin_topics_title: no
 
       # 3. Calendário de ano completo
       - name: Full-year calendar

@@ -1,15 +1,17 @@
 # Olá! Eu sou o **Rondinelle Oliveira**
 
-### **Analista de Planejamento & Desenvolvedor Back-end (Python)**
-> Unindo 5 anos de visão estratégica em planejamento com a construção de soluções escaláveis e automação inteligente.
+### **Back-end (Python) | Automação | Linux & Infra**
+Experiência em planejamento estratégico, foco para construção de sistemas, automação de processos e integração de dados.
 
 ---
 
 ## Sobre Mim
-*  **Experiência:** 5 anos como Analista de Planejamento, focado em eficiência operacional.
-*  **Transição:** Especializando-me em desenvolvimento **Back-end com Python**.
-*  **Foco:** Automação de processos, integração de APIs e aplicações orientadas a dados.
-*  **IA & Inovação:** Utilizando **LangChain**, **LangGraph** e **RAG** para soluções inteligentes.
+* **Experiência:** 5 anos como Analista de Planejamento, com foco em eficiência operacional e análise de dados.
+* **Especialização:** Desenvolvimento **Back-end com Python**, com foco em construção de APIs e aplicações web.
+* **Foco atual:** Automação de processos, integração de sistemas e soluções orientadas a dados.
+* **Stack principal:** Python, Flask/Django, SQL e ambiente Linux.
+* **Infra & DevOps:** Interesse crescente em **Docker**, arquitetura de aplicações e futuros estudos em **AWS**.
+* **IA aplicada:** Uso de IA como ferramenta de apoio (LangChain, LangGraph e RAG) para automação e ganho de produtividade.
 
 ---
 
@@ -49,7 +51,7 @@
   </tr>
 </table>
 
-### Calendário de Contribuições
+## Calendário de Contribuições
 <p align="center">
   <img src="/metrics.plugin.isocalendar.fullyear.svg" width="100%" />
 </p>

@@ -31,7 +31,6 @@ Experiência em planejamento estratégico, foco para construção de sistemas, a
 
 ---
 
-## Stack & Ferramentas
 <p align="center">
   <img src="/metrics.plugin.topics.icons.svg" width="100%" />
 </p>
@@ -57,7 +56,8 @@ Experiência em planejamento estratégico, foco para construção de sistemas, a
   </tr>
 </table>
 
-## Calendário de Contribuições
+---
+
 <p align="center">
   <img src="/metrics.plugin.isocalendar.fullyear.svg" width="100%" />
 </p>

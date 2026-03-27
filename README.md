@@ -1,43 +1,57 @@
 # 👋 Olá! Eu sou o **Rondinelle Oliveira**
 
-🎯 **Analista de Planejamento** com 5 anos de experiência  
-💻 Em transição para o **desenvolvimento back-end com Python**  
-⚙️ Focado em **automação de processos**, **integração de APIs** e **aplicações orientadas a dados**  
-🐍 Experiência prática com **Python**, **Flask**, **Django**, **SQL** e **ambientes Linux**  
-🤖 Utilizando **Inteligência Artificial** como apoio para construção de soluções mais eficientes  
-
-📊 Interesse em desenvolver sistemas que unam **dados, automação e escalabilidade**, com foco em resolver problemas reais de negócio  
+### **Analista de Planejamento & Desenvolvedor Back-end (Python)**
+> Unindo 5 anos de visão estratégica em planejamento com a construção de soluções escaláveis e automação inteligente.
 
 ---
 
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rondinellenunes123@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RondiNunes)
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-- **Back-end:** Python, Django, Flask  
-- **Dados:** SQL, manipulação e análise de dados  
-- **Infraestrutura:** Linux, Shell Script, Git  
-- **IA (complementar):** LangChain, LangGraph
+## 🚀 Sobre Mim
+* 🎯 **Experiência:** 5 anos como Analista de Planejamento, focado em eficiência operacional.
+* 💻 **Transição:** Especializando-me em desenvolvimento **Back-end com Python**.
+* ⚙️ **Foco:** Automação de processos, integração de APIs e aplicações orientadas a dados.
+* 🤖 **IA & Inovação:** Utilizando **LangChain**, **LangGraph** e **RAG** para soluções inteligentes.
 
 ---
 
-## 🧠 Projetos e Estudos
+## 🌐 Contato & Portfólio
 
-- Desenvolvimento de aplicações com **Flask** e **APIs REST**  
-- Integração com **bancos de dados** e manipulação de dados com Python  
-- Experimentos com **IA generativa**, **RAG**, **LangChain** e **LangGraph**
-- Projetos publicados na [**Hugging Face**](https://huggingface.co/RondiNunes)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/rondinelle-oliveira-7b711519a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rondinellenunes123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://huggingface.co/RondiNunes" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
+</p>
 
 ---
 
-## 📈 Estatísticas
+## 🛠️ Stack & Ferramentas
+<p align="center">
+  <img src="/metrics.plugin.topics.icons.svg" width="100%" />
+</p>
 
-![Metrics](/github-metrics.svg)
+---
+
+## 📈 Atividade e Métricas
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="/github-metrics.svg" alt="Métricas Gerais" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="/metrics.plugin.languages.indepth.svg" alt="Linguagens" />
+    </td>
+  </tr>
+</table>
+
+### 🗓️ Calendário de Contribuições
+<p align="center">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" width="100%" />
+</p>
 
 ---

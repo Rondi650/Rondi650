@@ -52,7 +52,7 @@ jobs:
             gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
+          plugin_languages_limit: 7
           plugin_languages_analysis_timeout: 15
 
       # 5. WakaTime (Estatísticas de tempo de código)

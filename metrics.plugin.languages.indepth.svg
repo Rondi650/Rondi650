@@ -22,9 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.99875589653203" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="363.99875589653203" y="0" width="65.24628862402955" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="429.24504452056163" y="0" width="30.7549554794384" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.83567824315537" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="135.83567824315537" y="0" width="24.348363076858977" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="160.18404132001436" y="0" width="11.47701789968498" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="171.66105921969933" y="0" width="288.3389407803007" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -64,6 +65,18 @@
                             <small>
                                 <div>1.34k lines</div>
                                 <div>35.5 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Other
+                            </div>
+                            <small>
+                                <div>17.1k lines</div>
+                                <div>421 kB</div>
                             </small>
                         </div>
                     </section>

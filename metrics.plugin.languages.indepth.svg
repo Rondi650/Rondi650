@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.22mb of code in 941 edited files across 306 commits</small>
+                <small>estimation from 1.45mb of code in 573 edited files across 204 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="366.48243284040257" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="366.48243284040257" y="0" width="73.950473523047" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="440.43290636344955" y="0" width="19.56709363655045" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.99875589653203" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="363.99875589653203" y="0" width="65.24628862402955" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="429.24504452056163" y="0" width="30.7549554794384" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>9.94k lines</div>
-                                <div>314 kB</div>
+                                <div>5.91k lines</div>
+                                <div>198 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,8 +62,8 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>3.11k lines</div>
-                                <div>63.3 kB</div>
+                                <div>1.34k lines</div>
+                                <div>35.5 kB</div>
                             </small>
                         </div>
                     </section>

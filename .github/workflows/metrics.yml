@@ -56,7 +56,6 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_analysis_timeout: 30   # aumenta pra não cortar análise
           plugin_languages_analysis_timeout_repositories: 10  # limite por repo
-          plugin_languages_other: yes
           repositories_skipped: >-               # coloque aqui os repos pesados
             Rondi650/FORMACAO-PRATICANDO-PY,
             Rondi650/PostgreeSQL-e-FAST-API,

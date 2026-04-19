@@ -51,6 +51,7 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake,
             gnuplot
+          plugin_languages_skipped: venv, .venv, env, .env, __pycache__
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 10

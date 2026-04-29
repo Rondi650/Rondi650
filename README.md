@@ -37,24 +37,13 @@ Experiência em planejamento estratégico, foco para construção de sistemas, a
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="/github-metrics.svg" alt="Métricas Gerais" />
-    </td>
-<td width="50%" valign="top">
-  <div>
-    <img src="/metrics.plugin.languages.indepth.svg" alt="Linguagens" />
-  </div>
-
+<div align="center">
+  <img src="/github-metrics.svg" alt="Métricas Gerais" width="100%" />
   <hr>
-  
-  <div>
-    <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" />
-  </div>
-</td>
-  </tr>
-</table>
+  <img src="/metrics.plugin.languages.indepth.svg" alt="Linguagens" width="100%" />
+  <hr>
+  <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="100%" />
+</div>
 
 ---
 

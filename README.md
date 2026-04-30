@@ -1,10 +1,3 @@
-# Olá! Eu sou o **Rondinelle Oliveira**
-
-### **Back-end (Python) | Automação | Linux & Infra**
-Experiência em planejamento estratégico, foco para construção de sistemas, automação de processos e integração de dados.
-
----
-
 ## Sobre Mim
 * **Experiência:** 5 anos como Analista de Planejamento, com foco em eficiência operacional e análise de dados.
 * **Especialização:** Desenvolvimento **Back-end com Python**, com foco em construção de APIs e aplicações web.

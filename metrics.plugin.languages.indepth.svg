@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 45.2mb of code in 1797 edited files across 553 commits</small>
+                <small>estimation from 45.2mb of code in 1811 edited files across 557 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.86593409790044" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.86593409790044" y="0" width="14.186514141098272" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.05244823899875" y="0" width="0.9475517610012583" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.1258134722803" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.1258134722803" y="0" width="13.942905949917625" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.0687194221979" y="0" width="0.9312805778020792" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>17.5k lines</div>
-                                <div>531 kB</div>
+                                <div>17.8k lines</div>
+                                <div>541 kB</div>
                             </small>
                         </div>
                         <div class="field language details">

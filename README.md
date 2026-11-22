@@ -1,10 +1,10 @@
 ## Sobre Mim
-* **Experiência:** 5 anos como Analista de Planejamento, com foco em eficiência operacional e análise de dados.
-* **Especialização:** Desenvolvimento **Back-end com Python**, com foco em manutenibilidade em ambientes **Linux**.
-* **Foco atual:** Automação de processos, integração de sistemas e soluções orientadas a dados.
-* **Stack principal:** Python (FastAPI, Django, automacao), SQL e ambiente Linux.
-* **Infra & DevOps:** Interesse crescente em **Docker**, arquitetura de aplicações e futuros estudos em **AWS**.
-* **IA aplicada:** Uso de IA como ferramenta de apoio (LangChain, LangGraph, RAG, CLI Agents[Linux]) para automação e ganho de produtividade.
+- **Experiência:** 5 anos como Analista de Planejamento, com foco em eficiência operacional e análise de dados.
+- **Especialização:** Desenvolvimento **Back-end com Python**, com foco em manutenibilidade em ambientes **Linux**.
+- **Foco atual:** Automação de processos, integração de sistemas e soluções orientadas a dados.
+- **Stack principal:** Python (FastAPI, Django, automacao), SQL e ambiente Linux.
+- **Infra & DevOps:** Interesse crescente em **Docker**, arquitetura de aplicações e futuros estudos em **AWS**.
+- **IA aplicada:** Uso de IA como ferramenta de apoio (LangChain, LangGraph, RAG, CLI Agents[Linux]) para automação e ganho de produtividade.
 
 ---
 
@@ -34,8 +34,10 @@
   <img src="/github-metrics.svg" alt="Métricas Gerais" width="100%" />
   <hr>
   <img src="/metrics.plugin.languages.indepth.svg" alt="Linguagens" width="100%" />
+  <!--
   <hr>
   <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="100%" />
+  -->
 </div>
 
 ---
